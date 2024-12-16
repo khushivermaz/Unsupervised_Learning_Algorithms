@@ -2,7 +2,7 @@
 
 
 
-## This repository contains all the files of the unsupervised learning algorithms + metrics 
+## This repository contains all the files of the unsupervised learning algorithms + metrics                           
 
 
 
